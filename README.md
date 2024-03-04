@@ -2,7 +2,7 @@
 ## 👉&nbsp;  &nbsp;  How to find me &nbsp;  &nbsp;<a href="https://fr.linkedin.com/in/f-banipal?trk=profile-badge"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/></a>&nbsp;  <a href="your-medium-URL"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=plastic" alt="Medium Badge"/></a>&nbsp;  <a href="your-Stackoverflow-URL"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&style=plastic" alt="Stackoverflow"/></a>&nbsp;  <a href="your-codewars-URL"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&style=plastic" alt="Codewars"/></a>
 
 <p align="center">
-<img align="center" src="https://github.com/f-banipal/f-banipal/assets/150936990/07f0c227-7355-4e1a-9f17-5f44668ef798"  height="150">
+<img align="center" src="https://github.com/f-banipal/f-banipal/assets/150936990/9abe60f8-7546-4ee6-b041-38e1069c4a01"  height="150">
 </p>
          
 ### 👉 I’m currently learning ⬇️

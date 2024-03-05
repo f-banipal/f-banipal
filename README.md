@@ -35,8 +35,8 @@
 ```
 <br>
 <br>
-[https://github.com/f-banipal/My_Wallet_App]([http://google.fr](https://github.com/f-banipal/My_Wallet_App) "My_Wallet_App")
-
+[]([http://google.fr](https://github.com/f-banipal/) "My_Wallet_App")
+[My_Wallet_App!](https://github.com/f-banipal/My_Wallet_App)
 ### My Projects ⬇️
 | Project No | Proje Link | Tutorials Used |
 | :--- | :----: | :----: |

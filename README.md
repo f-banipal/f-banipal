@@ -42,7 +42,7 @@ http&#58
 ### My Projects ⬇️
 | Project No | Proje Link | Tutorials Used |
 | :--- | :----: | :----: |
-| 1.&nbsp;  |[My Wallet App!](https&#58://github.com/f-banipal/My_Wallet_App)|https://f-banipal.github.io/My_Wallet_App/index.html  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;|
+| 1.&nbsp;  |[My Wallet App!](https://github.com/f-banipal/My_Wallet_App)|https://f-banipal.github.io/My_Wallet_App/index.html  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;|
 | 2.&nbsp;  |&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;|&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;|
 
 

@@ -49,5 +49,5 @@ http&#58
 
 ### Where I am ? ⬇️
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-banipal&theme=tokyonight)|[![](https://github-readme-stats.vercel.app/api?username=f-banipal&show_icons=true&theme=tokyonight)](https://github.com/f-banipal/github-readme-stats)|
-| :--- | :----: |
+| :--- | https://main--f-banipal-r2-products-list.netlify.app |
 

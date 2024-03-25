@@ -43,7 +43,7 @@ http&#58
 | Project No | Proje Link | Tutorials Used |
 | :--- | :----: | :----: |
 | 1.&nbsp;  |[My Wallet App!](https://github.com/f-banipal/My_Wallet_App)|https://f-banipal.github.io/My_Wallet_App/index.html  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;|
-| 2.&nbsp;  |[Produts_List!](https://github.com/f-banipal/R1-ProductsList.git)|https://main--f-banipal-r2-products-list.netlify.app|
+| 2.&nbsp;  |[Produts_List!](https://github.com/f-banipal/R1-ProductsList.git)|https://main--f-banipal-r2-products-list.netlify.app  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;|
 
 
 
